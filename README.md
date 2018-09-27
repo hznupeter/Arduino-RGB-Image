@@ -6,6 +6,7 @@ You can convert bitmap images to C hex arrays using something like this,
 https://littlevgl.com/image-to-c-array
 
 Pinout that worked for me:
+
 SCK 52
 
 SDA 51

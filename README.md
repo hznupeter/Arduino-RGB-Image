@@ -7,8 +7,13 @@ https://littlevgl.com/image-to-c-array
 
 Pinout that worked for me:
 SCK 52
+
 SDA 51
+
 A0(DC) 46
+
 RESET 49
+
 CS 53
+
 TX3 - RX3
